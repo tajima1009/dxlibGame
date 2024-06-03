@@ -1,0 +1,7 @@
+﻿  GameMain.cpp
+C:\Users\student\Desktop\DxLib2DGame\Project\20240527_GameProject3\GameMain.cpp(63,13): error C2660: 'StartScreen': 関数に 1 個の引数を指定できません。
+  C:\Users\student\Desktop\DxLib2DGame\Project\20240527_GameProject3\GameFunction.h(12,6):
+  'StartScreen' の宣言を確認してください
+  C:\Users\student\Desktop\DxLib2DGame\Project\20240527_GameProject3\GameMain.cpp(63,13):
+  引数リスト '(double)' を一致させようとしているとき
+  
